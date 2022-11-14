@@ -1,1 +1,6 @@
-{"FIO":"Kandyba Evgeney Olegovich";"age":25;"pets":1;"salary":2000}
+{
+ "FIO"   :  "Kandyba Evgeney Olegovich",
+ "age"   :  25,
+ "pets"  :  1,
+ "salary":  2000
+}
