@@ -23,8 +23,8 @@ ________________________________________________________________________________
                                                                
 
  8. Отправить изменения на внешний репозиторий.            - ```git add . 
-                                                                 git commit -m "update new.json" 
-                                                                 git push
+                                                                git commit -m "update new.json" 
+                                                                git push
                                                               ```
  
  9. Создать файл preferences.json                          - `touch preferences.json`
@@ -32,7 +32,7 @@ ________________________________________________________________________________
  10. В файл preferences.json добавить информацию о своих 
 предпочтениях (Любимый фильм, любимый сериал, любимая еда,
 любимое время года, сторона которую хотели бы посетить) 
-в формате JSON.                                             - ```vim preferences.json после нажать на i ввести информацию о себе в формате JSON                                                                                          {"film":"1+1";"serial":"Peaky_Blinders";"food":"salat";"season":"winter";"country":"USA"}
+в формате JSON.                                             - ```vim preferences.json после нажать на i ввести информацию о себе в формате JSON                                                                                          {"movie":"1+1";"series":"Peaky_Blinders";"food":"salat";"season":"winter";"country":"USA"}
                                                                  после окончания ввода нажать Esc ввести :wq
                                                               ```
 
